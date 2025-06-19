@@ -25,8 +25,8 @@ Blur, mute, replace, or skip scenes using AI-based content detection.
 
 The **Minimum Viable Product (MVP)** includes:
 
-> ✅ **Scene Summary Mode** –  
-> CensorSense doesn’t just skip or mute—it also gives a **brief, non-graphic summary** of what was skipped or blurred, so users stay in the loop without being exposed to uncomfortable content.
+**Scene Summary Mode** –  
+CensorSense doesn’t just skip or mute—it also gives a **brief, non-graphic summary** of what was skipped or blurred, so users stay in the loop without being exposed to uncomfortable content.
 
 ---
 
